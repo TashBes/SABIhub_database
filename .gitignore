@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/
+.Renviron
+/.quarto/
+README.html
+.Rprofile
+/plots
+mpa_ovrlp.gpkg
